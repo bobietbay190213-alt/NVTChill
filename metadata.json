@@ -1,0 +1,6 @@
+{
+  "name": "NVTChill Minecraft",
+  "description": "Trang web chính thức của server Minecraft NVTChill - Nơi thư giãn và sáng tạo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
